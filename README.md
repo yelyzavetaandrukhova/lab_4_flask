@@ -28,4 +28,4 @@
 Проєкт має наступні основні можливості:
 
 Адреса '/api/v1/hello-world' повертає текст 'Hello World 1' з HTTP статус кодом 200.
-![Моя Фотографія](C:\Users\Acer\PycharmProjects\pythonProject\venv\Scripts\img.png)
+![Моя Фотографія](img.png)
